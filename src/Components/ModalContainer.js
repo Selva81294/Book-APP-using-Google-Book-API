@@ -1,5 +1,4 @@
 import React from "react";
-import bookImg from "../Images/samlebook.jpg";
 
 const ModalContainer = ({show,item,onClose}) => {
     if(!show){
